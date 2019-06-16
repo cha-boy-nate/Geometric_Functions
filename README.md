@@ -1,9 +1,8 @@
 # Geometric_Functions
-Geometric functions written in prolog.
 <ol>
 <li>
   <h2>Introduction</h2>
-  <p></p>
+  <p>Prolog is categorized as a logic programming language. Logic programming languages evaluate a formal set of defined rules, primary used for pattern recognition and artificial intelligence applications. </p>
 </li>
   
 <li>
